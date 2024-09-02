@@ -4,11 +4,11 @@ Group Name: GROUP 1
 
 ## Project Title: Baga Burger Inventory System
 
-## A. Problem Statement:
+## A. Problem Statement: 
 
 ## B. Project Description:
 
-## C. Project Objectives:
+## C. Project Objectives: asdasdasdjasdsanhdkaj
 
 To develop a Baga Burger Inventory System APP that will help to manage the Inventory with the following features:
 
